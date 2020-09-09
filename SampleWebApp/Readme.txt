@@ -16,5 +16,3 @@ https://github.com/Devops1921/SimpleWebApplication.git
 An multiple branches has been created on Git to push the codes from multiple users. And finally this will be merged and deployed into the master branch.
 
 -------------------------------
-
-
